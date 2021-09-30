@@ -17,7 +17,7 @@ Not yet available
 [RNames repository](https://github.com/karilint/rnames)
 * For setting up the development environment, see [Development Environment](https://github.com/karilint/rnames/blob/master/docs/dev_environment.md) in RNames repository.
 
-[Definition of done]()
+[Definition of done](/dod.md)
 
 ## Project progress
 
