@@ -21,10 +21,14 @@ Not yet available
 
 ## Project progress
 
+[Working Hours](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=WorkingHours)
+
 [Product backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=ProductBacklog)
 
-[Sprint backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Sprint1)
-* To see all the sprint backlogs, view [all sprint backlogs](/sprint_backlogs).
-* Some graphs might not be visible. Check [the whole backlog document](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM) for these. Navigate between content with the tabs.
+### Sprint backlogs
 
-[Working Hours](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=WorkingHours)
+[Sprint 0](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%200%27!A4)
+
+[Sprint 1](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%201%27!A4)
+
+
