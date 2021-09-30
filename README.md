@@ -24,6 +24,5 @@ Not yet available
 [Product backlog]()
 
 [Sprint backlog]()
-* For previous sprint backlogs, see [all sprint backlogs]().
 
 [Working hours]()
