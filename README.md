@@ -1,6 +1,6 @@
 # RNames documentation
 
-This repository contains the required documentation for the course TKT20007 Ohjelmistotuotantoprojekti. This is not the repository for [the actual application](https://github.com/karilint/rnames).
+This repository contains the required documentation for the course TKT20007 Ohjelmistotuotantoprojekti. This is not [the repository for the application](https://github.com/karilint/rnames).
 
 ## App
 
@@ -19,10 +19,12 @@ Not yet available
 
 [Definition of done]()
 
-## Project Progress
+## Project progress
 
-[Product backlog]()
+[Product backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=ProductBacklog)
 
-[Sprint backlog]()
+[Sprint backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Sprint1)
+* To see all the sprint backlogs, view [all sprint backlogs](/sprint_backlogs).
+* Some graphs might not be visible. Check [the whole backlog document](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM) for these. Navigate between content with the tabs.
 
-[Working hours]()
+[Working Hours](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=WorkingHours)
