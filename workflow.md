@@ -1,8 +1,6 @@
 # NOT AT ALL READY, don't use this as a guideline just yet
 # Way of working 
 
-the writer of this document realized that she is very, very lost with the workflow (pls delete this when this document will
-
 Description of the workflow in this project.
 
 ## Before starting new work
