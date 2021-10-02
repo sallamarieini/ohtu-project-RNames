@@ -1,4 +1,4 @@
-# NOT AT ALL READY, don't use this as a guideline just yet
+# NOT READY
 # Way of working 
 
 Description of the workflow in this project.
