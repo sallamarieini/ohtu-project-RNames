@@ -19,6 +19,8 @@ Not yet available
 
 [Definition of done](/dod.md)
 
+[Way of working](/workflow.md)
+
 ## Project progress
 
 [Working Hours](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=WorkingHours)
