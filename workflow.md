@@ -15,23 +15,20 @@ Check Slack, product backlog and sprint backlog. See what has happened before st
 
 ### When starting your first task
 
-TLDR: Fork the repository and make pull requests through that.
-
-1. Fork the [RNames repository](https://github.com/karilint/rnames).
-2. Clone the repository to your own computer. See [this](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) for more detailed instructions.
-3. Configure git to sync the fork with the original repository. More detailed instructions can be found [here](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
+1. Fork the [repository](https://github.com/karilint/rnames) and clone the fork (not the original repository). [More info](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository)
+2. Configure git to sync the fork with the original repository. More detailed instructions can be found [here](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
+3. Create a new branch for the feature you're developing with `git checkout -b your-branch-name`
 
 ## Task is done
 
 When the coding for the task is done, follow these steps.
-* Make a pull request. INSTRUCTIONS COMING LATER
-* Ask someone to review the PR.
-* Go through possible comments or requests for changes and assess them.
-  * Do the required changes and ask for someone to check out the changes.
-* When PR is approved, it is ready to be merged. DETAILS COMING LATER
+1. Once you've finished implementing a feature, push the changes to your fork with `git push -u origin your-remote-branch-name`
+2. Go to https://github.com/karilint/rnames/pulls and click New pull request. Click "compare across forks", select your repository and branch on the right, and create new pull request. Add an appropriate title and description as required.
+3. Request a review from another project member. Wait for the review. If changes are requested, commit them to the same branch and re-request a review.
+4. Once approved, merge the PR. On the pull request page, make sure the merge commit option is selected in the merge button dropdown before merging.
 
 ## When you are asked to review a pull request
-
+* Reviews are done through the `Files changed` tab of the PR.
 * Go through the changes.
 * Write comments to the PR and request changes if needed. Inform the opener of the PR that the PR has been reviewed.
   * When the requested changes have been made, review the PR again and make comments if necessary.
