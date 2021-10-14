@@ -11,7 +11,7 @@ Check Slack, product backlog and sprint backlog. See what has happened before st
 
 * Check out the task you want to start working on from the sprint backlog and change the status to *in progress*.
 * Remember to keep your fork up to date with the original repo! See [this](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) for instructions.
-* Code the task. MORE DETAIL COMING LATER
+* Code the task. Create a new branch for the feature/task: `git checkout -b your-branch-name`.
 
 ### When starting your first task
 
