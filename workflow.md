@@ -34,4 +34,8 @@ When the coding for the task is done, follow these steps.
   * When the requested changes have been made, review the PR again and make comments if necessary.
 * Mark the PR approved if/when the PR is ready to be merged and inform the opener about the approval.
 
-
+## Miscellanious notes
+* Remember to keep your fork's branches up to date with the upstream repository. This can be done in many ways, e.g.
+* Syncing with the click of a button on your fork's github page
+* Setting up a second [remote](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) and [pulling changes from it](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+* Pulling changes into your current branch without setting up a remote with `git pull REPOSITORY BRANCH`, for example, `git pull git@github.com:karilint/rnames.git master`
