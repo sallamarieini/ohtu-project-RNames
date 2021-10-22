@@ -35,4 +35,4 @@ Not yet available
 
 [Sprint 2](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%202%27!A4)
 
-
+[Sprint 3](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%203%27!A4)
