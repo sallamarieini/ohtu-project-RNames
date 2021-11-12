@@ -16,6 +16,7 @@ Not yet available
 
 [RNames repository](https://github.com/karilint/rnames)
 * For setting up the development environment, see [Development Environment](https://github.com/karilint/rnames/blob/master/docs/dev_environment.md) in RNames repository.
+* See [wizard development instructions](https://github.com/karilint/rnames/blob/master/app/frontend/README.md) to start developing th ewizard
 
 [Definition of done](/dod.md)
 
@@ -36,3 +37,5 @@ Not yet available
 [Sprint 2](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%202%27!A4)
 
 [Sprint 3](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%203%27!A4)
+
+[Sprint 4](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%204%27!A4)
