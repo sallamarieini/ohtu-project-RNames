@@ -41,3 +41,5 @@ Not yet available
 [Sprint 4](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%204%27!A4)
 
 [Sprint 5](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%205%27!A4)
+
+[Sprint 6](https://helsinkifi-my.sharepoint.com/:x:/g/personal/jennaran_ad_helsinki_fi/EcVJ7Dm02aVKpF3roCsxHaIBAKeqliHxt38KJiVS1Ai0Xg?e=cpzcsM&action=view&activeCell=%27Sprint%206%27!A4)
